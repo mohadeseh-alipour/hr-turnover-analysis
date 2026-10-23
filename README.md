@@ -119,11 +119,3 @@ Charts will be saved automatically in the `/outputs` folder.
 
 **IBM HR Analytics Employee Turnover & Performance**  
 Originally published on Kaggle. Contains 1,470 employee records with 35 features including demographics, job role, satisfaction scores, salary, and turnover status.
-
----
-
-## 👩‍💻 Author
-
-**Mohadeseh Alipour**  
-Data Analyst | Power BI Developer  
-[LinkedIn](#) | [Medium](#)
